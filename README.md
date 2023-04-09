@@ -15,7 +15,7 @@ npx create-react-native-app -t with-router
 - [Request for Comments](https://github.com/expo/router/discussions/1)
 
 ## Mobile app link:
--[LINK](exp://exp.host/@gargdivanshu/native?release-channel=default)
+-[`Link`](exp://exp.host/@gargdivanshu/native?release-channel=default)
 
 ## See the app yourself !!
 -[See this link](https://expo.dev/@gargdivanshu/native?serviceType=classic&distribution=expo-go)
